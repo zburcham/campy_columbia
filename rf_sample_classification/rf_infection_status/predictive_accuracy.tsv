@@ -1,0 +1,6 @@
+	infected	uninfected	Overall Accuracy
+infected	0.7368421052631579	0.2631578947368421	
+uninfected	0.4	0.6	
+Overall Accuracy			0.6666666666666666
+Baseline Accuracy			0.5128205128205128
+Accuracy Ratio			1.3

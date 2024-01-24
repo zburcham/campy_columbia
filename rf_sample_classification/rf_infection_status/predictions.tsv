@@ -1,0 +1,40 @@
+SampleID	prediction	TRUE				
+CCP6a	infected	infected		inf pred inf	14	0.736842105
+CCP3	infected	infected		unf pred unf	12	0.6
+CCP4	infected	infected		inf pred unf	5	0.263157895
+CCP5	infected	infected		unf pred inf	8	0.4
+CCP15	infected	infected				
+CCP16	infected	infected				
+CCP17	infected	infected				
+CCP2	infected	infected				
+CCP8	infected	infected				
+CCP9	infected	infected				
+CCP14	infected	infected				
+CCP1	infected	infected				
+CCP10	infected	infected				
+CCP13	infected	infected				
+CCP7	uninfected	infected				
+CCP19	uninfected	infected				
+CCP20a	uninfected	infected				
+CCP18	uninfected	infected				
+CCP12	uninfected	infected				
+CCN1	infected	uninfected				
+CCN4	infected	uninfected				
+CCN6	infected	uninfected				
+CCN5	infected	uninfected				
+CCN16	infected	uninfected				
+CCN9	infected	uninfected				
+CCN10a	infected	uninfected				
+CCN14	infected	uninfected				
+CCN8a	uninfected	uninfected				
+CCN12	uninfected	uninfected				
+CCN15	uninfected	uninfected				
+CCN17	uninfected	uninfected				
+CCN20	uninfected	uninfected				
+CCN7	uninfected	uninfected				
+CCN13	uninfected	uninfected				
+CCN18	uninfected	uninfected				
+CCN3	uninfected	uninfected				
+CCN11	uninfected	uninfected				
+CCN19	uninfected	uninfected				
+CCN2	uninfected	uninfected				

@@ -1,0 +1,10 @@
+library(mclust)
+library(MetabolAnalyze)
+setwd("/Users/zacharyburcham/Dropbox/UTK/Research/Collab_projects/jj_colombia/qiime2-2023.9/metabolites")
+
+f = read.table("full_metabolite_shared_table.tsv", header=T, row.names = 1)
+f2 = f/sum(f)
+f3 = scaling(f2, type="pareto")
+f4 = scaling(f, type="pareto")
+write.table(f3, file = "full_metabolite_shared_normscaled_table.tsv", sep = "\t", row.names = T, col.names = T)
+write.table(f4, file = "full_metabolite_shared_scaled_table.tsv", sep = "\t", row.names = T, col.names = T)
